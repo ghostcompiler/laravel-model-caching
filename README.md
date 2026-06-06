@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/logo.png" alt="Laravel Model Caching Logo" width="180">
+  <img src="https://res.cloudinary.com/djgvfl1tv/image/upload/v1780666791/logo_mqnqn4.png" alt="Laravel Uploads Logo" width="180">
 </p>
 
 <p align="center">
@@ -245,14 +245,10 @@ This package was developed using **ServBay** as the local development environmen
 ### ServBay your development friend
 
 <p>
-  <img src="assets/servbay/servbay-icon-blue-512.png" alt="ServBay Icon" width="96">
+  <img src="https://res.cloudinary.com/djgvfl1tv/image/upload/v1780667063/servbay_edc7jz.png" alt="ServBay Icon" width="96">
 </p>
 
 ### Testing And Build Machine
 
 - Tested on: `Mac M4`
 - Built on: `Mac M4`
-
-## License
-
-MIT
