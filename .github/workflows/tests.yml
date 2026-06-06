@@ -79,6 +79,9 @@ jobs:
           composer require --dev --no-update \
             "orchestra/testbench:${{ matrix.testbench }}"
 
+      - name: Allow legacy Laravel versions in CI
+        run: composer config audit.block-insecure false
+
       - name: Install dependencies
         run: composer update --prefer-dist --no-interaction --no-progress
 
